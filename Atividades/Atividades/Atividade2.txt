@@ -1,0 +1,21 @@
+1. Realizar uma pesquisa sobre jogos multiplayer escolhendo um jogo para elaborar uma ficha técnica contendo as seguintes informações.
+
+a) Nomo do jogo
+
+League of Legends
+
+b) Classificação: Local ou Online
+
+Online
+
+c) Arquitetura: Cliente-Servidor ou Ponto-a-Ponto
+
+Arquitetura Cliente-Servidor
+
+d) Quantidade de jogadores po sessão.
+
+10 jogadores por sessão
+
+e) Problemas comuns do jogo.
+
+Bugs e fatal error durante execução do jogo, além de lag durante partidas.
